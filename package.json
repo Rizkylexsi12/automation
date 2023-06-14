@@ -1,0 +1,14 @@
+{
+  "name": "tesqa",
+  "version": "1.0.0",
+  "description": "Cypress Test Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "author": "Lexsi",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.14.0"
+  }
+}
